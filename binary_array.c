@@ -1,8 +1,6 @@
-/*!
-@file binary_array.c
-@brief This file contains functions to set and get values from binary storage
-@bug Currently there is no known bug.
-*/
+/*! \file binary_array.c						      	
+ *  \brief This file contains functions to set and get values from binary arrays
+ */
 #include<stdlib.h>
 #include<string.h>
 

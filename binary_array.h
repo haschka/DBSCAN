@@ -1,3 +1,7 @@
+/*! \file binary_array.h
+ *  \brief defines function for binary array manipulation
+ */ 
+
 /*! \brief Allocates a binary array and sets all values to zero. */
 char* alloc_and_set_zero_binary_array(size_t array_length);
 
